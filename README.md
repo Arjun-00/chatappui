@@ -1,7 +1,6 @@
 # chatappui
 
 A new Flutter project.
-![Uploading Screenshot_20230602_120908.png…]()
 
 ## Getting Started
 
